@@ -38,7 +38,7 @@ const Home = () => {
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center rounded-full hover:bg-[#8B6B47] hover:border-[#8B6B47]'>
             View Work
-            <span className='group-hover:rotate-90 duration-300'>
+            <span className='group-hover:rotate-90 duration-300' href='/src/components/Work.jsx'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
           </button>
